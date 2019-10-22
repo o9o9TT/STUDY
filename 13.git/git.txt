@@ -1,0 +1,18 @@
+github 先创建仓库
+git clone 
+git add
+git commit
+git push origin master
+
+
+///////////////////////////
+
+本地git init
+git add .
+git commit -m ''
+git remote add origin git@github.com:o9o9TT/LearningNotes.git
+git pull origin master --allow-unrelated-histories
+git push origin master
+
+
+
